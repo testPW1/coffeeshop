@@ -208,17 +208,17 @@ li a:hover {
 }
 
 .img-one {
-  background: url(Images/1.png);
+  background: url(images/1.png);
   background-position: center;
   background-size: cover;
 }
 .img-two {
-  background: url(Images/3.png);
+  background: url(images/3.png);
   background-position: center;
   background-size: cover;
 }
 .img-three {
-  background: url(Images/4.png);
+  background: url(images/4.png);
   background-position: center;
   background-size: cover;
 }
